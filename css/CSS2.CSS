@@ -1,0 +1,20 @@
+content{
+	font-family: "COMIC SANS MS";
+}
+ol {
+
+  padding-left: 25%;
+}
+p{
+	text-align: center;
+}
+.Text{
+	text-align: left;
+	padding-left: 1%;
+	padding-right:1%;
+}
+.ServerRules{
+
+	height: 30%;
+	width: 30%;
+}
